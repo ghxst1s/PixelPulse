@@ -1,1 +1,10 @@
-{}
+{
+  "Users": [
+    {
+      "Username": "sigma",
+      "Password": "ligma",
+      "Value": 100,
+      "Bio": "figma"
+    }
+  ]
+}
